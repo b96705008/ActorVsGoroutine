@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Go-part&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../go/src/launchpad.net" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/code.google.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../go/src/launchpad.net" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../../go/src/code.google.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
